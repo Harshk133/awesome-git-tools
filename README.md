@@ -90,6 +90,26 @@ Export an entire repository into a single file for AI tools.
 
 ---
 
+## Github1s
+
+**Website**
+
+https://github1s.com/
+
+Opens the Github Repository in web vscode editor!
+
+---
+
+## Uihub
+
+**Website**
+
+https://uithub.com/
+
+Provides the File structure to copy paste and more information to create readme badges!
+
+---
+
 ## GitProbe
 
 **Website**
