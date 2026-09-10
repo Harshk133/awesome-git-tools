@@ -178,6 +178,14 @@ Import a GitHub repository directly into Bolt for AI-powered development.
 
 ---
 
+## CodeSandBox + GitHub
+
+https://githubbox.com/owner/repository
+
+Import a GitHub repository directly into CodeSandbox where you can setup and run the project!
+
+---
+
 ## GitMCP
 
 https://gitmcp.io/owner/repository
