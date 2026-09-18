@@ -204,6 +204,14 @@ Connect GitHub repositories to MCP-compatible AI agents.
 
 ---
 
+## GhGrab
+
+https://github.com/abhixdd/ghgrab
+
+CLI utility that lets you quickly grab files or folders from a repository directly from your terminal.
+
+---
+
 # 📊 Visualizations
 
 ## RepoBeats
