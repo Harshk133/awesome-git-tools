@@ -100,6 +100,16 @@ Opens the Github Repository in web vscode editor!
 
 ---
 
+## GitDiagram
+
+**Website**
+
+https://gitdiagram.com/
+
+Turns a GitHub repository into an interactive codebase diagram!
+
+---
+
 ## Uihub
 
 **Website**
