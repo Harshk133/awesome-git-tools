@@ -212,6 +212,16 @@ CLI utility that lets you quickly grab files or folders from a repository direct
 
 ---
 
+## DiffSeek
+
+**Website**
+
+https://github.com/n8v-guy/diffseek
+
+Cut through noisy GitHub pull requests: hide generated files, filter by CODEOWNERS owner, group or format, and track viewed progress. Focus on the code that matters instead of digging through the file tree. Available for Chrome and Firefox desktop.
+
+---
+
 # 📊 Visualizations
 
 ## RepoBeats
